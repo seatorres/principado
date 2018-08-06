@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designs>
+    <technoevents>
+        <blocks>
+            <block>
+                <type>text</type>
+                <position>1</position>
+                <content>
+                    The latest technologies, the newest trends, the top best practices, the biggest case studies and you.
+                    Join 1,000 marketers from across the Fortune 1000 and the most innovative marketing agencies at the world’s
+                    only conference and exposition on using social media and technology to optimize live experiences.</content>
+            </block>
+        </blocks>
+    </technoevents>
+</designs>

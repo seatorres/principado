@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designs>
+    <musikschule>
+        <content>
+            <store_name>Musik Schule</store_name>
+            <email>club@clubclub.com</email>
+        </content>
+        <content>
+            <store_name>Contact US</store_name>
+            <email>club@clubclub.com</email>
+        </content>
+    </musikschule>
+</designs>

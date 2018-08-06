@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designs>
+    <technoevents>
+        <images>
+            <image type="custom">
+                <content>
+                    <type_id>custom</type_id>
+                    <name>Sponsors</name>
+                </content>
+                <custom>
+                    <url>/../../images/templates/technoevents/content/technoevents1.jpg</url>
+                    <description></description>
+                </custom>
+                <custom>
+                    <url>/../../images/templates/technoevents/content/technoevents2.jpg</url>
+                    <description></description>
+                </custom>
+                <custom>
+                    <url>/../../images/templates/technoevents/content/technoevents3.jpg</url>
+                    <description></description>
+                </custom>
+            </image>
+        </images>
+    </technoevents>
+</designs>

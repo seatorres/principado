@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designs>
+    <musikschule>
+        <places>
+            <place>
+                <content>
+                    <title>Berlin</title>
+                    <content>Deutschland</content>
+                    <picture>/../../images/templates/musikschedule/content/musikschedule1.png</picture>
+                </content>
+                <block>
+                    <type>address</type>
+                    <position>1</position>
+                    <label>Address</label>
+                    <address>25 Karl Marx Alle, Berlin, Deutschland</address>
+                    <latitude>52.8565272</latitude>
+                    <longitude>13.3555569000000105</longitude>
+                    <show_address>1</show_address>
+                    <show_geolocation_button>1</show_geolocation_button>
+                </block>
+                <block>
+                    <type>text</type>
+                    <position>2</position>
+                    <content>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                        mollit anim id est laborum.
+                    </content>
+                </block>
+            </place>
+        </places>
+    </musikschule>
+</designs>
